@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hey, I'm Adesh!
 
-<!--
-**ignis1902/ignis1902** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 IT Engineering Student | 🤖 Aspiring AI/ML Engineer
 
-Here are some ideas to get you started:
+I'm an IT Engineering student passionate about Artificial Intelligence,
+Machine Learning, problem solving, and building practical software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently focused on:
+
+- 🧠 Data Structures & Algorithms with C++
+- 🤖 Artificial Intelligence & Machine Learning
+- 🐍 Python
+- 🗄️ SQL & Databases
+- 🚀 Building practical AI-powered projects
+- 🏆 Competitive Programming with LeetCode & Codeforces
