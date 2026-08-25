@@ -1,15 +1,11 @@
-# 👋 Hey, I'm Adesh!
+<h1 align="center">
+  Hi 👋, I'm Adesh R. Mhaske
+</h1>
 
-### 🎓 IT Engineering Student | 🤖 Aspiring AI/ML Engineer
+<h3 align="center">
+  C++ Developer | DSA | AI/ML Enthusiast
+</h3>
 
-I'm an IT Engineering student passionate about Artificial Intelligence,
-Machine Learning, problem solving, and building practical software.
-
-Currently focused on:
-
-- 🧠 Data Structures & Algorithms with C++
-- 🤖 Artificial Intelligence & Machine Learning
-- 🐍 Python
-- 🗄️ SQL & Databases
-- 🚀 Building practical AI-powered projects
-- 🏆 Competitive Programming with LeetCode & Codeforces
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=C%2B%2B+Developer;DSA+%7C+Competitive+Programming;AI%2FML+Enthusiast;Building+Projects+That+Solve+Real+Problems" />
+</p>
