@@ -38,3 +38,15 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/ignis1902/ignis1902/output/github-contribution-grid-snake.svg" />
 </p>
+<h2 align="center">🐍 My Contributions</h2>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+            srcset="https://raw.githubusercontent.com/ignis1902/ignis1902/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)"
+            srcset="https://raw.githubusercontent.com/ignis1902/ignis1902/output/github-contribution-grid-snake.svg">
+    <img src="https://raw.githubusercontent.com/ignis1902/ignis1902/output/github-contribution-grid-snake.svg"
+         alt="GitHub contribution snake">
+  </picture>
+</p>
