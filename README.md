@@ -14,3 +14,9 @@
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ignis1902&theme=tokyonight" />
 </p>
+<h2 align="center">💻 Most Used Languages</h2>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ignis1902&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ignis1902&theme=tokyonight" />
+</p>
