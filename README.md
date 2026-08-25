@@ -20,3 +20,10 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ignis1902&theme=tokyonight" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ignis1902&theme=tokyonight" />
 </p>
+<h2 align="center">⚔️ Codeforces</h2>
+<p align="center">
+  <a href="https://codeforces.com/profile/ignis1902">
+    <img src="https://codeforces-stats-vlx.vercel.app/api/card?username=ignis1902&theme=tokyonight" />
+  </a>
+</p>
+
