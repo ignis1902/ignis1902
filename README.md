@@ -26,4 +26,11 @@
     <img src="https://codeforces-stats-vlx.vercel.app/api/card?username=ignis1902&theme=tokyonight" />
   </a>
 </p>
+<h2 align="center">💻 LeetCode</h2>
+
+<p align="center">
+  <a href="https://leetcode.com/ignis1902/">
+    <img src="https://leetcard.jacoblin.cool/ignis1902?theme=dark" />
+  </a>
+</p>
 
