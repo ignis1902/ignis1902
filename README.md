@@ -315,6 +315,47 @@ Constantly solving problems to improve algorithms, data structures and problem-s
          alt="GitHub contribution snake">
   </picture>
 </p>
+---
+
+## 📈 Coding Activity
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ignis1902&theme=tokyonight" width="95%" />
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+
+<a href="https://github.com/ignis1902">
+<img src="https://img.shields.io/badge/GitHub-ignis1902-181717?style=for-the-badge&logo=github" />
+</a>
+
+<a href="https://leetcode.com/ignis1902/">
+<img src="https://img.shields.io/badge/LeetCode-ignis1902-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+</a>
+
+<a href="https://codeforces.com/profile/ignis1902">
+<img src="https://img.shields.io/badge/Codeforces-ignis1902-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+</a>
+
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ignis1902&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+</p>
+
+<p align="center">
+  <i>Keep learning. Keep building. Keep solving. 🚀</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+</p>
 
 ---
 
