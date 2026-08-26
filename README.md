@@ -318,19 +318,131 @@ Constantly solving problems to improve algorithms, data structures and problem-s
 
 ---
 
+---
+
 ## 🎯 Current Focus
 
-```text
-C++
- ↓
-Data Structures & Algorithms
- ↓
-Competitive Programming
- ↓
-Python
- ↓
-Machine Learning
- ↓
-Deep Learning
- ↓
-AI / LLM Projects
+<table align="center">
+<tr>
+
+<td align="center" width="140">
+<h3>💻</h3>
+<b>C++</b>
+<br>
+<sub>Programming</sub>
+</td>
+
+<td align="center">→</td>
+
+<td align="center" width="140">
+<h3>🧩</h3>
+<b>DSA</b>
+<br>
+<sub>Problem Solving</sub>
+</td>
+
+<td align="center">→</td>
+
+<td align="center" width="160">
+<h3>⚔️</h3>
+<b>Competitive</b>
+<br>
+<sub>Programming</sub>
+</td>
+
+<td align="center">→</td>
+
+<td align="center" width="140">
+<h3>🐍</h3>
+<b>Python</b>
+<br>
+<sub>Data & AI</sub>
+</td>
+
+</tr>
+
+<tr>
+<td colspan="7" height="25"></td>
+</tr>
+
+<tr>
+
+<td align="center" width="140">
+<h3>📊</h3>
+<b>Machine</b>
+<br>
+<sub>Learning</sub>
+</td>
+
+<td align="center">→</td>
+
+<td align="center" width="140">
+<h3>🧠</h3>
+<b>Deep</b>
+<br>
+<sub>Learning</sub>
+</td>
+
+<td align="center">→</td>
+
+<td align="center" width="160">
+<h3>🤖</h3>
+<b>AI / LLM</b>
+<br>
+<sub>Projects</sub>
+</td>
+
+<td align="center">→</td>
+
+<td align="center" width="140">
+<h3>🚀</h3>
+<b>Real World</b>
+<br>
+<sub>Solutions</sub>
+</td>
+
+</tr>
+</table>
+
+---
+
+## 📚 Currently Learning
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/C%2B%2B-DSA-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/Competitive-Programming-1F8ACB?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Machine-Learning-FF6F00?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Deep-Learning-8E44AD?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Computer-Vision-00A67E?style=for-the-badge" />
+<img src="https://img.shields.io/badge/NLP-9B59B6?style=for-the-badge" />
+<img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge" />
+<img src="https://img.shields.io/badge/ML-Engineering-2C3E50?style=for-the-badge" />
+
+</p>
+
+---
+
+## 🧠 Problem Solving Journey
+
+<p align="center">
+
+<b>Learn</b>
+&nbsp; → &nbsp;
+<b>Practice</b>
+&nbsp; → &nbsp;
+<b>Compete</b>
+&nbsp; → &nbsp;
+<b>Build</b>
+&nbsp; → &nbsp;
+<b>Improve</b>
+
+</p>
+
+<p align="center">
+  <i>
+  Every problem solved is another step toward becoming a better engineer.
+  </i>
+</p>
+
+---
