@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Adesh%20R.%20Mhaske&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=C%2B%2B%20%7C%20DSA%20%7C%20AI%2FML%20%7C%20Builder&descAlignY=58&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=220&section=header&text=Adesh%20R.%20Mhaske&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=C%2B%2B%20%7C%20DSA%20%7C%20AI%2FML%20%7C%20Competitive%20Programming&descAlignY=58&descSize=17" />
+
+</div>
 
 <h2>👋 Hi, I'm Adesh</h2>
 
@@ -26,56 +28,70 @@
 
 ## 👨‍💻 About Me
 
-I'm a developer focused on **C++, Data Structures & Algorithms, Competitive Programming and AI/ML**.
+<p align="center">
+  <b>Developer • Problem Solver • AI/ML Enthusiast</b>
+</p>
 
-- 💻 Practicing C++ and DSA through competitive programming
-- 🧠 Exploring Machine Learning, Deep Learning and AI
-- 🚀 Building practical projects using software and AI
-- 📚 Continuously improving problem-solving skills
-- 🎯 Focused on becoming a strong software + AI engineer
+<p align="center">
+  I enjoy turning challenging problems into clean, efficient code
+  and turning ideas into practical projects.
+</p>
 
----
+<table align="center">
+<tr>
+<td align="center">💻<br><b>Development</b><br><sub>C++ • Python</sub></td>
+<td align="center">🧩<br><b>Problem Solving</b><br><sub>DSA • Codeforces</sub></td>
+<td align="center">🤖<br><b>AI / ML</b><br><sub>ML • DL • LLMs</sub></td>
+<td align="center">🚀<br><b>Building</b><br><sub>Real-world projects</sub></td>
+</tr>
+</table>
 
 ## 🛠️ Tech Stack
 
 <div align="center">
 
-### 💻 Languages
+### 💻 Programming
 
 <img src="https://skillicons.dev/icons?i=cpp,python" />
+
+<br><br>
 
 ### 🗄️ Databases
 
 <img src="https://skillicons.dev/icons?i=mysql,postgres" />
 
+<br><br>
+
 ### 🤖 AI / Data
 
 <img src="https://skillicons.dev/icons?i=python,jupyter" />
 
-### 🔧 Tools & Development
+<br><br>
+
+### 🔧 Tools
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter" />
 
 </div>
 
-<p align="center">
-  <b>C++</b> •
-  <b>Python</b> •
-  <b>SQL</b> •
-  <b>MySQL</b> •
-  <b>PostgreSQL</b> •
-  <b>Jupyter Notebook</b> •
-  <b>Git</b> •
-  <b>GitHub</b> •
-  <b>VS Code</b>
-</p>
+<br>
 
----
+<p align="center">
+
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+
+</p>
 
 ## 📊 GitHub Statistics
 
+<h3 align="center">📈 GitHub Activity</h3>
+
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ignis1902&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ignis1902&theme=tokyonight" width="95%" />
 </p>
 
 ---
