@@ -147,15 +147,7 @@
 
 ---
 
-## 💡 LeetCode
 
-<p align="center">
-  <a href="https://leetcode.com/ignis1902/">
-    <img src="https://leetcard.jacoblin.cool/ignis1902?theme=dark" />
-  </a>
-</p>
-
----
 
 ## 🚀 Featured Projects
 
