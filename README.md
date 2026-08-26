@@ -319,19 +319,13 @@ Constantly solving problems to improve algorithms, data structures and problem-s
 
 ---
 
-## 🐍 My Contributions
+---
+
+## 🐍 Contribution Activity
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"
-            srcset="https://raw.githubusercontent.com/ignis1902/ignis1902/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)"
-            srcset="https://raw.githubusercontent.com/ignis1902/ignis1902/output/github-contribution-grid-snake.svg">
-    <img src="https://raw.githubusercontent.com/ignis1902/ignis1902/output/github-contribution-grid-snake.svg"
-         alt="GitHub contribution snake">
-  </picture>
+  <i>Every contribution represents another step forward.</i>
 </p>
----
 
 ## 📈 Coding Activity
 
@@ -340,43 +334,25 @@ Constantly solving problems to improve algorithms, data structures and problem-s
 </p>
 
 ---
+---
 
-## 🤝 Let's Connect
+## 🌐 Find Me Online
 
 <p align="center">
 
 <a href="https://github.com/ignis1902">
-<img src="https://img.shields.io/badge/GitHub-ignis1902-181717?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <a href="https://leetcode.com/ignis1902/">
-<img src="https://img.shields.io/badge/LeetCode-ignis1902-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
 </a>
 
 <a href="https://codeforces.com/profile/ignis1902">
-<img src="https://img.shields.io/badge/Codeforces-ignis1902-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+<img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
 </a>
 
 </p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ignis1902&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-</p>
-
-<p align="center">
-  <i>Keep learning. Keep building. Keep solving. 🚀</i>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
-</p>
-
----
-
----
-
 ## 🎯 Current Focus
 
 <table align="center">
@@ -479,27 +455,82 @@ Constantly solving problems to improve algorithms, data structures and problem-s
 </p>
 
 ---
+---
+
+## 🚧 What I'm Building
+
+<table align="center">
+<tr>
+
+<td align="center" width="25%">
+<h2>💻</h2>
+<b>DSA</b>
+<br>
+<sub>Improving problem-solving</sub>
+</td>
+
+<td align="center" width="25%">
+<h2>⚔️</h2>
+<b>Competitive Programming</b>
+<br>
+<sub>Codeforces practice</sub>
+</td>
+
+<td align="center" width="25%">
+<h2>🤖</h2>
+<b>AI / ML</b>
+<br>
+<sub>Learning & experimenting</sub>
+</td>
+
+<td align="center" width="25%">
+<h2>🚀</h2>
+<b>Projects</b>
+<br>
+<sub>Building practical solutions</sub>
+</td>
+
+</tr>
+</table>
+
+---
 
 ## 🧠 Problem Solving Journey
 
 <p align="center">
 
-<b>Learn</b>
-&nbsp; → &nbsp;
-<b>Practice</b>
-&nbsp; → &nbsp;
-<b>Compete</b>
-&nbsp; → &nbsp;
-<b>Build</b>
-&nbsp; → &nbsp;
-<b>Improve</b>
+<img src="https://img.shields.io/badge/01-Learn-1F8ACB?style=for-the-badge" />
+&nbsp;→&nbsp;
+<img src="https://img.shields.io/badge/02-Practice-6C5CE7?style=for-the-badge" />
+&nbsp;→&nbsp;
+<img src="https://img.shields.io/badge/03-Compete-E84393?style=for-the-badge" />
+&nbsp;→&nbsp;
+<img src="https://img.shields.io/badge/04-Build-00B894?style=for-the-badge" />
+&nbsp;→&nbsp;
+<img src="https://img.shields.io/badge/05-Improve-F39C12?style=for-the-badge" />
 
 </p>
 
 <p align="center">
   <i>
-  Every problem solved is another step toward becoming a better engineer.
+    Every problem solved is another step toward becoming a better engineer.
   </i>
 </p>
 
 ---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ignis1902&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge" />
+</p>
+
+<h3 align="center">
+  🚀 Keep Learning • Keep Building • Keep Solving
+</h3>
+
+<p align="center">
+  <i>One problem. One project. One improvement at a time.</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+</p>
