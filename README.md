@@ -1,34 +1,73 @@
-<h1 align="center">Hi 👋, I'm Adesh R. Mhaske</h1>
+<div align="center">
 
-<h3 align="center">
-C++ Developer • DSA • Competitive Programming • AI/ML
-</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Adesh%20R.%20Mhaske&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=C%2B%2B%20%7C%20DSA%20%7C%20AI%2FML%20%7C%20Builder&descAlignY=58&descSize=18" />
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=650&lines=C%2B%2B+Developer;DSA+%7C+Competitive+Programming;AI%2FML+Enthusiast;Building+Projects+That+Solve+Real+Problems" />
+<h2>👋 Hi, I'm Adesh</h2>
+
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=900&center=true&vCenter=true&width=700&lines=C%2B%2B+Developer;Competitive+Programming+%7C+DSA;AI%2FML+Enthusiast;Building+Projects+That+Solve+Real+Problems;Always+Learning+%7C+Always+Building" />
 </p>
+
+<p>
+  <a href="https://github.com/ignis1902">
+    <img src="https://img.shields.io/badge/GitHub-ignis1902-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://leetcode.com/ignis1902/">
+    <img src="https://img.shields.io/badge/LeetCode-ignis1902-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+  <a href="https://codeforces.com/profile/ignis1902">
+    <img src="https://img.shields.io/badge/Codeforces-ignis1902-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+  </a>
+</p>
+
+</div>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🔭 Currently working on AI/ML and software projects
-- 🌱 Currently learning DSA, Machine Learning and Deep Learning
-- 💻 Practicing C++ and Competitive Programming
-- 🧠 Interested in Artificial Intelligence, Machine Learning and Software Development
-- 🚀 Building projects that solve practical problems
-- 📚 Improving my problem-solving skills through Codeforces and LeetCode
+I'm a developer focused on **C++, Data Structures & Algorithms, Competitive Programming and AI/ML**.
+
+- 💻 Practicing C++ and DSA through competitive programming
+- 🧠 Exploring Machine Learning, Deep Learning and AI
+- 🚀 Building practical projects using software and AI
+- 📚 Continuously improving problem-solving skills
+- 🎯 Focused on becoming a strong software + AI engineer
 
 ---
 
 ## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,mysql,postgres,git,github,vscode" />
-</p>
+<div align="center">
+
+### 💻 Languages
+
+<img src="https://skillicons.dev/icons?i=cpp,python" />
+
+### 🗄️ Databases
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres" />
+
+### 🤖 AI / Data
+
+<img src="https://skillicons.dev/icons?i=python,jupyter" />
+
+### 🔧 Tools & Development
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter" />
+
+</div>
 
 <p align="center">
-  <b>C++</b> • <b>Python</b> • <b>SQL</b> • <b>MySQL</b> • <b>PostgreSQL</b> • <b>Git</b> • <b>GitHub</b> • <b>VS Code</b>
+  <b>C++</b> •
+  <b>Python</b> •
+  <b>SQL</b> •
+  <b>MySQL</b> •
+  <b>PostgreSQL</b> •
+  <b>Jupyter Notebook</b> •
+  <b>Git</b> •
+  <b>GitHub</b> •
+  <b>VS Code</b>
 </p>
 
 ---
@@ -47,8 +86,6 @@ C++ Developer • DSA • Competitive Programming • AI/ML
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ignis1902&theme=tokyonight" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ignis1902&theme=tokyonight" />
 </p>
-
----
 
 ## ⚔️ Codeforces
 
