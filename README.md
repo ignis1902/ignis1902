@@ -111,8 +111,6 @@ I'm a developer focused on **C++, Data Structures & Algorithms, Competitive Prog
   </a>
 </p>
 
----
-
 ## 🚀 Featured Projects
 
 ### 🔐 Phishing URL Detection
