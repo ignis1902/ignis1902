@@ -89,17 +89,45 @@ I'm a developer focused on **C++, Data Structures & Algorithms, Competitive Prog
 
 ## ⚔️ Codeforces
 
-<p align="center">
-  <a href="https://codeforces.com/profile/ignis1902">
-    <img src="https://codeforces-stats-vlx.vercel.app/api/card?username=ignis1902&theme=tokyonight" />
-  </a>
-</p>
+---
 
-<p align="center">
-  <a href="https://codeforces.com/profile/ignis1902">
-    <img src="https://img.shields.io/badge/Codeforces-ignis1902-blue?style=for-the-badge&logo=codeforces" />
-  </a>
-</p>
+## 🏆 Coding Profiles
+
+<table align="center">
+<tr>
+<td align="center" width="50%">
+
+### ⚔️ Codeforces
+
+<a href="https://codeforces.com/profile/ignis1902">
+<img src="https://codeforces-stats-vlx.vercel.app/api/card?username=ignis1902&theme=tokyonight" width="100%" />
+</a>
+
+<br>
+
+<a href="https://codeforces.com/profile/ignis1902">
+<img src="https://img.shields.io/badge/View%20Codeforces%20Profile-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+</a>
+
+</td>
+
+<td align="center" width="50%">
+
+### 💡 LeetCode
+
+<a href="https://leetcode.com/ignis1902/">
+<img src="https://leetcard.jacoblin.cool/ignis1902?theme=dark" width="100%" />
+</a>
+
+<br>
+
+<a href="https://leetcode.com/ignis1902/">
+<img src="https://img.shields.io/badge/View%20LeetCode%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+</a>
+
+</td>
+</tr>
+</table>
 
 ---
 
