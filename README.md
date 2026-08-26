@@ -139,45 +139,147 @@ I'm a developer focused on **C++, Data Structures & Algorithms, Competitive Prog
   </a>
 </p>
 
+---
+
 ## 🚀 Featured Projects
 
-### 🔐 Phishing URL Detection
+<table align="center">
+<tr>
 
-Machine-learning based system designed to identify potentially malicious and phishing URLs.
+<td width="50%" valign="top">
 
-**Technologies:** Python • Machine Learning • Data Analysis
+<h3 align="center">🔐 Phishing URL Detection</h3>
 
----
+<p align="center">
+Machine-learning based system designed to detect potentially malicious and phishing URLs.
+</p>
 
-### 🧠 MRI Brain Tumor Detection
+<p align="center">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat-square" />
+<img src="https://img.shields.io/badge/Data%20Analysis-4CAF50?style=flat-square" />
+</p>
 
+<p align="center">
+<a href="#">
+<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github" />
+</a>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3 align="center">🧠 MRI Brain Tumor Detection</h3>
+
+<p align="center">
 Deep-learning project focused on detecting brain tumors from MRI images.
+</p>
 
-**Technologies:** Python • Deep Learning • CNN • Computer Vision
+<p align="center">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=flat-square" />
+<img src="https://img.shields.io/badge/CNN-8E44AD?style=flat-square" />
+</p>
 
----
+<p align="center">
+<a href="#">
+<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github" />
+</a>
+</p>
 
-### ⚖️ Human Rights Violation Detection
+</td>
 
-Project focused on analyzing data related to human-rights violations using machine-learning techniques.
+</tr>
 
-**Technologies:** Python • Machine Learning • NLP
+<tr>
 
----
+<td width="50%" valign="top">
 
-### 📈 Mutual Fund Prediction Engine
+<h3 align="center">⚖️ Human Rights Violation Detection</h3>
 
-A predictive analytics project exploring historical financial data and market patterns.
+<p align="center">
+AI-based project focused on analyzing human-rights violation data.
+</p>
 
-**Technologies:** Python • Machine Learning • Data Analysis
+<p align="center">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat-square" />
+<img src="https://img.shields.io/badge/NLP-9B59B6?style=flat-square" />
+</p>
 
----
+<p align="center">
+<a href="#">
+<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github" />
+</a>
+</p>
 
-### 🤖 Healthcare Assistant
+</td>
 
-An AI-powered assistant designed to provide conversational assistance around healthcare-related information.
+<td width="50%" valign="top">
 
-**Technologies:** Python • LLM • NLP • AI
+<h3 align="center">📈 Mutual Fund Prediction Engine</h3>
+
+<p align="center">
+Predictive analytics project exploring historical financial data and market patterns.
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat-square" />
+<img src="https://img.shields.io/badge/Data%20Analysis-4CAF50?style=flat-square" />
+</p>
+
+<p align="center">
+<a href="#">
+<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github" />
+</a>
+</p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h3 align="center">🤖 Healthcare Assistant</h3>
+
+<p align="center">
+AI-powered conversational assistant designed to provide useful healthcare information.
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/LLM-8E44AD?style=flat-square" />
+<img src="https://img.shields.io/badge/NLP-9B59B6?style=flat-square" />
+</p>
+
+<p align="center">
+<a href="#">
+<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github" />
+</a>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3 align="center">🚀 More Projects Coming Soon</h3>
+
+<p align="center">
+Always experimenting, learning and building new things.
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/BUILDING-00C853?style=for-the-badge" />
+</p>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
