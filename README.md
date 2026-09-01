@@ -103,10 +103,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ignis1902&theme=tokyonight" />
 </p>
 
-## ⚔️ Codeforces
-
----
-
 ## 🏆 Coding Profiles
 
 <table align="center">
@@ -312,12 +308,6 @@ Constantly solving problems to improve algorithms, data structures and problem-s
 ---
 
 ---
-
-## 🐍 Contribution Activity
-
-<p align="center">
-  <i>Every contribution represents another step forward.</i>
-</p>
 
 ## 📈 Coding Activity
 
